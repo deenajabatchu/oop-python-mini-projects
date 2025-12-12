@@ -1,4 +1,4 @@
-# oop-python-mini-projectss
+# oop-python-mini-projects
 # 🧠 Object-Oriented Design (OOD) Mini Projects in Python
 
 This repository contains simple yet powerful implementations of real-world systems using **Python's Object-Oriented Programming (OOP)**. These mini projects are commonly developed with **LLD (Low-Level Design)** and **OOP designs** 

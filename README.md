@@ -33,6 +33,5 @@ An elevator control logic simulation:
 ---
 
 ## ⚙️ Technologies Used
-
 - Language: Python 3
 - Concepts: Classes, Objects, Inheritance, Abstraction, Encapsulation

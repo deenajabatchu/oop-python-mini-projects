@@ -36,4 +36,3 @@ An elevator control logic simulation:
 
 - Language: Python 3
 - Concepts: Classes, Objects, Inheritance, Abstraction, Encapsulation
-- No external libraries required
